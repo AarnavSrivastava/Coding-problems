@@ -1,3 +1,5 @@
+package USACO;
+
 import java.util.*;
 import java.io.*;
 
